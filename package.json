@@ -1,0 +1,18 @@
+{
+  "name": "test_exercise1",
+  "version": "1.0.0",
+  "description": "minchia",
+  "main": "server.js",
+  "scripts": {
+    "test": "boh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "boh"
+  },
+  "keywords": [
+    "boh"
+  ],
+  "author": "boh",
+  "license": "UNLICENSED"
+}
